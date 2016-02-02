@@ -1,0 +1,6 @@
+C:\Users\saurabh\Documents\GitHub\NamePip\NamePip\bin\Debug\NamePip.exe.config
+C:\Users\saurabh\Documents\GitHub\NamePip\NamePip\bin\Debug\NamePip.exe
+C:\Users\saurabh\Documents\GitHub\NamePip\NamePip\bin\Debug\NamePip.pdb
+C:\Users\saurabh\Documents\GitHub\NamePip\NamePip\obj\Debug\NamePip.csprojResolveAssemblyReference.cache
+C:\Users\saurabh\Documents\GitHub\NamePip\NamePip\obj\Debug\NamePip.exe
+C:\Users\saurabh\Documents\GitHub\NamePip\NamePip\obj\Debug\NamePip.pdb
